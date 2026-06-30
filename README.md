@@ -9,6 +9,11 @@ The system consists of two microcontrollers, an Arduino Pro Mini and an STM8S103
 
 <br><br>
 
+## Highlights
+<img width="840" src="Conveyor.jpg" alt="conveyor">
+
+<br><br>
+
 ## Appreciation
 If this work is useful to you, then support this work as a form of appreciation to the author by clicking the ``` ⭐Star ``` button at the top of the repository.
 

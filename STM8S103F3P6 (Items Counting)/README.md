@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/IoT-Based-Smart-Conveyor-System-with-PWM-Speed-Control-and-Real-Time-Item-Counting?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Conveyor-with-PWM-Speed-and-Item-Counting?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Automatic Items Counter on STM8-based Conveyor
-Automatic items counter is a fast and precise tool for humans to get the sum of items. The purpose of this project is to provide education to the wider community on how to make a simple automatic item counter. This project has been implemented and took approximately 2 weeks. This system is made to be used as a complement to the conveyor. In addition, this system has also provided display and reset features for the needs of its users. The way this system works is that if the items transported by the conveyor are right in front of the laser beam, the light intensity received by the LDR sensor is low, so it is considered that there are items and starts counting. The calculation results will be displayed on the LCD screen. This project will be useful for business people, because it can increase efficiency in production. The results show that this system can function properly.
+Automatic items counter is a fast and precise tool for humans to get the sum of items. The purpose of this project is to provide education to the wider community on how to make a simple automatic item counter. This project has been implemented and took approximately 1 day. This system is made to be used as a complement to the conveyor. In addition, this system has also provided display and reset features for the needs of its users. The way this system works is that if the items transported by the conveyor are right in front of the laser beam, the light intensity received by the LDR sensor is low, so it is considered that there are items and starts counting. The calculation results will be displayed on the LCD screen. This project will be useful for business people, because it can increase efficiency in production. The results show that this system can function properly.
 
 <br><br>
 
@@ -387,11 +387,6 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
 4. Configure your device according to the settings above.<br><br>
 
 5. Please enjoy [Done].
-
-<br><br>
-
-## Highlights
-<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="auto-items-counter">
 
 <br><br>
 

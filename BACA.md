@@ -9,6 +9,11 @@ Sistem ini terdiri dari dua mikrokontroler (Arduino Pro Mini dan STM8S103F3P6), 
 
 <br><br>
 
+## Sorotan
+<img width="840" src="Conveyor.jpg" alt="conveyor">
+
+<br><br>
+
 ## Apresiasi
 Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan mengklik tombol ``` ⭐Bintang ``` di bagian atas repositori.
 

@@ -1,11 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/IoT-Based-Smart-Conveyor-System-with-PWM-Speed-Control-and-Real-Time-Item-Counting?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Conveyor-with-PWM-Speed-and-Item-Counting?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Automatic Items Counter on STM8-based Conveyor
-Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusia untuk mendapatkan hasil penjumlahan barang. Tujuan diadakannya proyek ini adalah untuk memberikan edukasi kepada masyarakat luas tentang bagaimana cara membuat alat penghitung barang otomatis yang sederhana. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 2 minggu. Sistem ini dibuat untuk digunakan sebagai pelengkap pada konveyor. Selain itu, sistem ini juga telah disediakan fitur display dan reset untuk kebutuhan penggunanya. Cara kerja dari sistem ini yaitu apabila barang yang diangkut oleh konveyor itu berada tepat di depan pancaran sinar laser, maka intensitas cahaya yang diterima oleh sensor LDR itu rendah, sehingga dianggap ada barang dan mulai dihitung. Adapun hasil penghitungannya akan ditampilkan pada layar LCD. Proyek ini akan berguna bagi para pelaku bisnis, karena dapat meningkatkan efisiensi dalam produksi. Hasil penelitian menunjukkan bahwa sistem yang dibuat ini dapat berfungsi dengan baik.
+Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusia untuk mendapatkan hasil penjumlahan barang. Tujuan diadakannya proyek ini adalah untuk memberikan edukasi kepada masyarakat luas tentang bagaimana cara membuat alat penghitung barang otomatis yang sederhana. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 1 hari. Sistem ini dibuat untuk digunakan sebagai pelengkap pada konveyor. Selain itu, sistem ini juga telah disediakan fitur display dan reset untuk kebutuhan penggunanya. Cara kerja dari sistem ini yaitu apabila barang yang diangkut oleh konveyor itu berada tepat di depan pancaran sinar laser, maka intensitas cahaya yang diterima oleh sensor LDR itu rendah, sehingga dianggap ada barang dan mulai dihitung. Adapun hasil penghitungannya akan ditampilkan pada layar LCD. Proyek ini akan berguna bagi para pelaku bisnis, karena dapat meningkatkan efisiensi dalam produksi. Hasil penelitian menunjukkan bahwa sistem yang dibuat ini dapat berfungsi dengan baik.
 
 <br><br>
 
@@ -387,11 +387,6 @@ Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan,
 4. Konfigurasikan perangkat anda menurut pengaturan di atas.<br><br>
 
 5. Selamat menikmati [Selesai].
-
-<br><br>
-
-## Sorotan
-<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="auto-items-counter">
 
 <br><br>
 
